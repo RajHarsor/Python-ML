@@ -4,7 +4,7 @@ The workshop content covers the basics of unsupervised and supervised methods an
 
 You can execute the example notebooks in Binder Hub or Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/dmbala/Python-ML)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmbala/Python-ML)
 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmbala/binder-PyBigData/master)
